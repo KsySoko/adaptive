@@ -1,0 +1,22 @@
+html, body{
+	height: 100%;
+}
+.container{
+	min-height: 100%;
+	max-width: 1360px;
+	margin: 0 auto;
+}
+header{
+	height: 120px;
+	width: 1360px;
+}
+.slr{
+	height: 476px;
+
+}
+footer{
+	height: 476px;
+	margin-top: -476px;
+	width: 1360px;
+	margin: 0 auto;
+}

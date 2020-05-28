@@ -1,0 +1,12 @@
+header{
+	padding: 16px 104px 26px;
+
+}
+.menu-all-list,
+.product-list{
+	list-style-type: none;
+}
+.menu-all-link,
+.product-link{
+	text-decoration: none;
+}
