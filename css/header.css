@@ -2,6 +2,10 @@ header{
 	padding: 16px 104px 26px;
 
 }
+.img-logo{
+	width: 134px;
+	height: 22px;
+}
 .menu-all-list,
 .product-list{
 	list-style-type: none;
@@ -9,4 +13,6 @@ header{
 .menu-all-link,
 .product-link{
 	text-decoration: none;
+}
+.pco{background-image: url(images/PKO_1.png);
 }
